@@ -32,7 +32,7 @@ const Portfolio = () => {
           <h3>An Accordian Page</h3>
           <div className="portfolio__item-cta">
             <a href='https://github.com' className='btn' target='_blank'>Github</a>
-            <a href='https://https://dribbble.com/Alien_pixels' className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href='/' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
 
@@ -43,7 +43,7 @@ const Portfolio = () => {
           <h3>A Product Landing Page</h3>
           <div className="portfolio__item-cta">
             <a href='https://github.com' className='btn' target='_blank'>Github</a>
-            <a href='https://https://dribbble.com/Alien_pixels' className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href='/' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
 
@@ -54,7 +54,7 @@ const Portfolio = () => {
           <h3>A Portfolio App</h3>
           <div className="portfolio__item-cta">
             <a href='https://github.com' className='btn' target='_blank'>Github</a>
-            <a href='https://https://dribbble.com/Alien_pixels' className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href='/' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
 
@@ -76,7 +76,7 @@ const Portfolio = () => {
           <h3>A Simple Interest Calculator</h3>
           <div className="portfolio__item-cta">
             <a href='https://github.com' className='btn' target='_blank'>Github</a>
-            <a href='https://https://dribbble.com/Alien_pixels' className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href='/' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
 
