@@ -43,7 +43,7 @@ const about = () => {
                 </div>
 
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, mollitia possimus repellendus enim odit recusandae voluptas quo voluptatem nihil qui. Dignissimos velit officiis ea voluptates ab corporis explicabo eaque iure?
+                    Meticulous web developer with over 2 years of front end experience and has passion for responsive website design. IBM certification, FreeCodeCamp certification, GADS Trainings and Tech4Dev Women Techsters Fellowship Fellow. Developed over 50 projects in 1 year. Maintaining, optimizing, troubleshooting and improving websites. 
                 </p>
 
                 <a href='#contact' className='btn btn-primary'>Let's Talk</a>

@@ -1,8 +1,8 @@
-.experience__container {
+/* .experience__container {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
-}
+} */
 
 .experience__container > div {
     background: var(--color-bg-variant);
@@ -36,6 +36,7 @@
 }
 
 .experience__details-icon {
+    margin-left: 120px;
     margin-top: 6px;
     color: var(--color-primary);
 }

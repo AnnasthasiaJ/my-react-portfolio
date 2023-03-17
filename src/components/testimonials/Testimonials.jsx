@@ -33,9 +33,9 @@ const Testimonials = () => {
           <div className="client__avatar">
             <img src={AVTR1} alt='avatar one' />
           </div>
-          <h5 className='client__name'>Jessica Green</h5>
+          <h5 className='client__name'>Jess Berger</h5>
           <small className='client__review'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, soluta? Aperiam atque magnam hic dolores explicabo laborum culpa distinctio quod sint, libero soluta dolorum autem aspernatur, recusandae nisi excepturi nam!
+             AnnieDev provided top quality, thoughtful and high impact design work with outstanding attention to details. Her communication was excellent, she showed willingness to persevere until the perfect design was achieved. Obviously passionate about her work and we wouldn't hesitate to recommend.
           </small> 
         </SwiperSlide>
 
@@ -43,9 +43,9 @@ const Testimonials = () => {
           <div className="client__avatar">
             <img src={AVTR2} alt='avatar one' />
           </div>
-          <h5 className='client__name'>Monica Stones</h5>
+          <h5 className='client__name'>Chris Webb</h5>
           <small className='client__review'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, soluta? Aperiam atque magnam hic dolores explicabo laborum culpa distinctio quod sint, libero soluta dolorum autem aspernatur, recusandae nisi excepturi nam!
+              Working with AnnieDev was better than expected. She is an incredibly talented develoiper but what makes her stand out is her work ethic and steady approach. Time after time, and without us asking, he added enhancements and improvements that resulted in a better end product for us and our clients.
           </small> 
         </SwiperSlide>
 
@@ -53,9 +53,9 @@ const Testimonials = () => {
           <div className="client__avatar">
             <img src={AVTR3} alt='avatar one' />
           </div>
-          <h5 className='client__name'>Sandra Bliss</h5>
+          <h5 className='client__name'>Rose Bliss</h5>
           <small className='client__review'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, soluta? Aperiam atque magnam hic dolores explicabo laborum culpa distinctio quod sint, libero soluta dolorum autem aspernatur, recusandae nisi excepturi nam!
+              We have the fortune of working with AnnieDev on a very regular basis. Every single project is done in a timely fashion and is delivered exactly as outlined. Beyond that, her development skills and expertise makes her an invaluable part of our process.
           </small> 
         </SwiperSlide>
 
@@ -63,9 +63,9 @@ const Testimonials = () => {
           <div className="client__avatar">
             <img src={AVTR4} alt='avatar one' />
           </div>
-          <h5 className='client__name'>Sophia Matthew</h5>
+          <h5 className='client__name'>James Spencer</h5>
           <small className='client__review'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, soluta? Aperiam atque magnam hic dolores explicabo laborum culpa distinctio quod sint, libero soluta dolorum autem aspernatur, recusandae nisi excepturi nam!
+              AnnieDev has crafted a beautiful work that is as practical as it is inspirational. Not only the design, the code is very clean and slick. Love the way she achieved the translation portion of the site.
           </small> 
         </SwiperSlide>
 

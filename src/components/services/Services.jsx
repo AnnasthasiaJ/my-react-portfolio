@@ -17,27 +17,27 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+              <p>Creating a polished user interactions that surprices and delights users.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+              <p>Provides customized and modernized websites solutions.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+              <p>Corporate branding and ensuring the finest of corporate graphic designs.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+              <p>Wireframing - Offers an overview of products.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+              <p>Designing and creation of enriched wearable app designs.</p>
             </li>
           </ul>
         </article>
@@ -52,32 +52,32 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+              <p>Web Design - Creating a site's architecture, designing its layout and user interface.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+              <p>Web development support and maintenance.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+              <p>Web Hosting - Storing your web app after completing your project.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+              <p>Web Programming - Building dynamic web applications.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+              <p>Website Management - Managing and improving sites.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+              <p>Web Optimization - Making the app visible to search engines.</p>
             </li>
           </ul>
         </article>
@@ -92,27 +92,27 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+              <p>Social media management.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+              <p>Specializes on digital marketing to boost your brand.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+              <p>Video editing - Adding sparkles to videos.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+              <p>Graphic design - Designing beyond imaginations.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+              <p>Photography.</p>
             </li>
           </ul>
         </article>
